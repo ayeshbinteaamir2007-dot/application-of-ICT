@@ -1,4 +1,4 @@
-**Assembly Reflections**
+## Assembly Reflections
 
 - We noticed that the registers arte very limited in numbers.
 - Instructions are low-level, requiring explicit steps for simple tasks.
@@ -7,7 +7,7 @@
 - Debugging assembly language is significantlty harder than python due to its syntax.
 
 
-**Python Reflections**
+## Python Reflections
 
 - Python has built-in functions making programs easier to write and debug.
 - No need to woory about register or memory management.
@@ -18,9 +18,8 @@
 - *Libraries:* Provide built-in support for I/O, math, etc.
 
 
-**Comparison Table**
+## Comparison Table
 
-## 3. Comparison Table
 
 | Feature             | Assembly Example       | Python Example              | Notes                                      |
 |---------------------|------------------------|-----------------------------|--------------------------------------------|
