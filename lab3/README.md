@@ -16,3 +16,14 @@
 - *Functions:* Allow code reuse and modular design.  
 - *Loops:* Handle repetition without manually managing jump instructions.  
 - *Libraries:* Provide built-in support for I/O, math, etc.
+
+
+**Comparison Table**
+
+## 3. Comparison Table
+
+| Feature             | Assembly Example       | Python Example              | Notes                                      |
+|---------------------|------------------------|-----------------------------|--------------------------------------------|
+| **Variable storage** | MOV AX, 5            | x = 5                     | Assembly uses registers; Python uses memory. |
+| **Printing output**  | INT 21h               | print("Hello")            | Python abstracts away system-level details. |
+| **Arithmetic**       | ADD AX, BX           | z = x + y                 | Assembly requires register ops, Python is direct. |
